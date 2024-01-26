@@ -1,0 +1,14 @@
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\bin\Debug\net6.0\SOLID.D.Refactor.exe
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\bin\Debug\net6.0\SOLID.D.Refactor.deps.json
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\bin\Debug\net6.0\SOLID.D.Refactor.runtimeconfig.json
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\bin\Debug\net6.0\SOLID.D.Refactor.dll
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\bin\Debug\net6.0\SOLID.D.Refactor.pdb
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\obj\Debug\net6.0\SOLID.D.Refactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\obj\Debug\net6.0\SOLID.D.Refactor.AssemblyInfoInputs.cache
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\obj\Debug\net6.0\SOLID.D.Refactor.AssemblyInfo.cs
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\obj\Debug\net6.0\SOLID.D.Refactor.csproj.CoreCompileInputs.cache
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\obj\Debug\net6.0\SOLID.D.Refactor.dll
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\obj\Debug\net6.0\refint\SOLID.D.Refactor.dll
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\obj\Debug\net6.0\SOLID.D.Refactor.pdb
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\obj\Debug\net6.0\SOLID.D.Refactor.genruntimeconfig.cache
+C:\Repos Cursos\SOLID\SOLID.D.Refactor\obj\Debug\net6.0\ref\SOLID.D.Refactor.dll

@@ -1,0 +1,14 @@
+C:\Repos Cursos\SOLID\SOLID.S\obj\Debug\net6.0\SOLID.S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos Cursos\SOLID\SOLID.S\obj\Debug\net6.0\SOLID.S.AssemblyInfoInputs.cache
+C:\Repos Cursos\SOLID\SOLID.S\obj\Debug\net6.0\SOLID.S.AssemblyInfo.cs
+C:\Repos Cursos\SOLID\SOLID.S\obj\Debug\net6.0\SOLID.S.csproj.CoreCompileInputs.cache
+C:\Repos Cursos\SOLID\SOLID.S\bin\Debug\net6.0\SOLID.S.exe
+C:\Repos Cursos\SOLID\SOLID.S\bin\Debug\net6.0\SOLID.S.deps.json
+C:\Repos Cursos\SOLID\SOLID.S\bin\Debug\net6.0\SOLID.S.runtimeconfig.json
+C:\Repos Cursos\SOLID\SOLID.S\bin\Debug\net6.0\SOLID.S.dll
+C:\Repos Cursos\SOLID\SOLID.S\bin\Debug\net6.0\SOLID.S.pdb
+C:\Repos Cursos\SOLID\SOLID.S\obj\Debug\net6.0\SOLID.S.dll
+C:\Repos Cursos\SOLID\SOLID.S\obj\Debug\net6.0\refint\SOLID.S.dll
+C:\Repos Cursos\SOLID\SOLID.S\obj\Debug\net6.0\SOLID.S.pdb
+C:\Repos Cursos\SOLID\SOLID.S\obj\Debug\net6.0\SOLID.S.genruntimeconfig.cache
+C:\Repos Cursos\SOLID\SOLID.S\obj\Debug\net6.0\ref\SOLID.S.dll
